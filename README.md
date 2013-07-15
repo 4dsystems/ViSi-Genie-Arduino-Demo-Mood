@@ -1,7 +1,7 @@
 ![image](http://www.4dsystems.com.au/imagenes/header.png)
 
-ViSi-Genie-Arduino-Demo-Mood
-============================
+ViSi-Genie-Arduino-Demo-Mood - UPDATED
+======================================
 
 Arduino Mood Demo for the 4D Systems ViSi-Genie Environment
 
