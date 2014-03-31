@@ -1,13 +1,14 @@
 ![image](http://www.4dsystems.com.au/imagenes/header.png)
 
-ViSi-Genie-Arduino-Demo-Mood - UPDATED
-======================================
+ViSi-Genie-Arduino-Demo-Mood - UPDATED 31-Mar-2014
+==================================================
 
 Arduino Mood Demo for the 4D Systems ViSi-Genie Environment
 
 ## Information
 
 This demo is to be used with the ViSi-Genie-Arduino-Library. Please copy the library over to your PC prior to attempting to use this Demo.
+Make sure you are running the latest library, as changes were made 31-Mar-2014 to both this demo and to the library.
 This demo controls a tri-coloured LED along with displaying images from the SD card on the display in a slide show.
 
 ## Installation
